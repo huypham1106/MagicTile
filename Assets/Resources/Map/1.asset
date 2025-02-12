@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33ae5dfd3e7c7a44d9c1edea0ad5c8c2, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  level: 1
+  start1: 41
+  start2: 82
+  start3: 123
+  speedFall: 8
+  speedScroll: 0.4
+  totalTime: 31.2
+  nodeDataList:
+  - id: 0
+    line: 03000000
+    type: 0
+    time: 0.15104167
+    height: 424
+    touchIndex: 0
+  - id: 1
+    line: 03000000
+    type: 0
+    time: 0.734375
+    height: 424
+    touchIndex: 1
+  - id: 2
+    line: 01000000
+    type: 0
+    time: 1.4375
+    height: 424
+    touchIndex: 2
+  - id: 3
+    line: 01000000
+    type: 0
+    time: 2.0989583
+    height: 424
+    touchIndex: 3
+  - id: 4
+    line: 00000000
+    type: 0
+    time: 2.78125
+    height: 424
+    touchIndex: 4
+  - id: 5
+    line: 00000000
+    type: 0
+    time: 3.4166667
+    height: 700
+    touchIndex: 5
+  - id: 6
+    line: 01000000
+    type: 1
+    time: 4.1197915
+    height: 700
+    touchIndex: 6
+  - id: 7
+    line: 02000000
+    type: 0
+    time: 5.4479165
+    height: 424
+    touchIndex: 7
+  - id: 8
+    line: 02000000
+    type: 1
+    time: 6.078125
+    height: 700
+    touchIndex: 8
+  - id: 9
+    line: 03000000
+    type: 0
+    time: 6.7135415
+    height: 424
+    touchIndex: 9
+  - id: 10
+    line: 03000000
+    type: 1
+    time: 7.4010415
+    height: 700
+    touchIndex: 10
+  - id: 11
+    line: 02000000
+    type: 0
+    time: 8.041667
+    height: 424
+    touchIndex: 11
+  - id: 12
+    line: 02000000
+    type: 1
+    time: 8.734375
+    height: 700
+    touchIndex: 12
+  - id: 13
+    line: 01000000
+    type: 1
+    time: 9.411458
+    height: 700
+    touchIndex: 13
+  - id: 14
+    line: 00000000
+    type: 0
+    time: 10.791667
+    height: 700
+    touchIndex: 14
+  - id: 15
+    line: 00000000
+    type: 1
+    time: 11.442708
+    height: 700
+    touchIndex: 15
+  - id: 16
+    line: 01000000
+    type: 1
+    time: 12.078125
+    height: 700
+    touchIndex: 16
+  - id: 17
+    line: 02000000
+    type: 0
+    time: 13.390625
+    height: 700
+    touchIndex: 17
+  - id: 18
+    line: 02000000
+    type: 1
+    time: 14.03125
+    height: 700
+    touchIndex: 18
+  - id: 19
+    line: 03000000
+    type: 1
+    time: 14.692708
+    height: 700
+    touchIndex: 19
+  - id: 20
+    line: 00000000
+    type: 0
+    time: 16.010416
+    height: 700
+    touchIndex: 20
+  - id: 21
+    line: 00000000
+    type: 1
+    time: 16.645834
+    height: 700
+    touchIndex: 21
+  - id: 22
+    line: 01000000
+    type: 0
+    time: 17.25
+    height: 700
+    touchIndex: 22
+  - id: 23
+    line: 01000000
+    type: 0
+    time: 17.9375
+    height: 700
+    touchIndex: 23
+  - id: 24
+    line: 02000000
+    type: 0
+    time: 18.65625
+    height: 700
+    touchIndex: 24
+  - id: 25
+    line: 02000000
+    type: 1
+    time: 19.333334
+    height: 700
+    touchIndex: 25
+  - id: 26
+    line: 03000000
+    type: 0
+    time: 19.994791
+    height: 700
+    touchIndex: 26
+  - id: 27
+    line: 03000000
+    type: 0
+    time: 21.395834
+    height: 700
+    touchIndex: 27
+  - id: 28
+    line: 03000000
+    type: 1
+    time: 22.052084
+    height: 700
+    touchIndex: 28
+  - id: 29
+    line: 01000000
+    type: 0
+    time: 22.770834
+    height: 700
+    touchIndex: 29
+  - id: 30
+    line: 01000000
+    type: 1
+    time: 23.442709
+    height: 700
+    touchIndex: 30
+  - id: 31
+    line: 00000000
+    type: 0
+    time: 24.177084
+    height: 700
+    touchIndex: 31
+  - id: 32
+    line: 00000000
+    type: 1
+    time: 24.859375
+    height: 700
+    touchIndex: 32
+  - id: 33
+    line: 01000000
+    type: 1
+    time: 25.526041
+    height: 700
+    touchIndex: 33
+  - id: 34
+    line: 02000000
+    type: 0
+    time: 26.869791
+    height: 700
+    touchIndex: 34
+  - id: 35
+    line: 02000000
+    type: 1
+    time: 27.541666
+    height: 700
+    touchIndex: 35
+  - id: 36
+    line: 03000000
+    type: 0
+    time: 28.239584
+    height: 700
+    touchIndex: 36
+  - id: 37
+    line: 03000000
+    type: 1
+    time: 28.942709
+    height: 700
+    touchIndex: 37
+  - id: 38
+    line: 02000000
+    type: 0
+    time: 29.619791
+    height: 700
+    touchIndex: 38
+  - id: 39
+    line: 02000000
+    type: 1
+    time: 30.354166
+    height: 700
+    touchIndex: 39
+  - id: 40
+    line: 01000000
+    type: 1
+    time: 31.088541
+    height: 700
+    touchIndex: 40
